@@ -12,7 +12,6 @@ HTML、CSS、javascriptの記述、htmlファイルの閲覧ができればPC、
 ブラウザは一応Safari,Chrome, Microsoft Edge推奨です。
 
 ## 1. 表示の確認
-![ScreenShot 2021-05-24 13 59 35](https://gyazo.com/45990af047762c17418fe6f957f12e66)
 Githubからファイルをダウンロードし、 `index.html`をブラウザで開いてください
 
 ## 2. HTMLコーディングをする
