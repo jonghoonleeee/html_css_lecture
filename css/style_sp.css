@@ -1,36 +1,4 @@
 
 @media screen and (max-width: 768px) {
-  header > h1 {
-    width: 50px;
-  }
 
-  .top_list {
-    display: none;
-  }
-
-  .top_txt {
-    width: 36px;
-  }
-
-  .bottom_title {
-    margin-bottom: 30px;
-    padding-top: 30px;
-  }
-
-  .bottom_sub-wrapper {
-    flex-flow: column;
-    text-align: center;
-  }
-
-  .bottom_image--title {
-    margin-top: 10px;
-  }
-
-  .bottom_sub_item {
-    margin-bottom: 30px;
-  }
-
-  .bottom_sub_item:last-child {
-    margin-bottom: 0;
-  }
 }
